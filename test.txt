@@ -1,3 +1,5 @@
 Neco noveho na zacatek.
 Novy file je tento.
+Unstage this.
+Or this.
 druha zmena.
