@@ -1,6 +1,10 @@
-﻿
+
 # StoraTraining201511
-<<<<<<< HEAD
+<<<<<<< HEAD \\
+jyfasdjdfjyf
+jdfadsjhfdjf
+
+
 jeho noha
 
 žlutoučký kůň příšerně úpěl ďábelské ódy
