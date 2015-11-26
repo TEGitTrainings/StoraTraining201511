@@ -1,39 +1,4 @@
-﻿
+
 # StoraTraining201511
-<<<<<<< HEAD
-<<<<<<< HEAD \\
-jyfasdjdfjyf
-jdfadsjhfdjf
 
-
-jeho noha
-
-žlutoučký kůň příšerně úpěl ďábelské ódy
-
-# StoraTraining20151123
-moje noha
-=======
-
-# bosak 2
-habla
-beble
-# How to convert enemy
-Wololo
-
-
-sdjgfjhfjyffsd
-gcfjghfjhf
-
-Eeeey macarena.
-
-# Bosak
-jasfujtgkuugsdf
-ksgtdfkugkj
-
-sdgfgsdgsdg
-
-
-kjfhzdsjhfjhf
-kugtasskdugkug
-sakdjgjkasjsgkj
->>>>>>> origin/master
+Slides for the training: https://github.com/TEGitTrainings/StoraTraining201511/raw/master/Git%20-%20Hands%20on%20keyboard%20-%20TE%20CzechAcademy%20-%202015-06.pptx
